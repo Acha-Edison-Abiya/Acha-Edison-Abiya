@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Acha-Edison-Abiya
+- 👋 Hi, I’m Edison
 - 👀 I’m interested in data science/machine learning
 - 🌱 I’m currently learning computer vision/ defect detection via deep learning
 - 💞️ I’m looking to collaborate on computer vision, defect detection, image processing etc..
